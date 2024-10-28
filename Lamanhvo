@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Test",--volamanh
+    logoscript = "117390141608083",--118822066802367
+    tacgia = "sadas"-- Võ Lâm Anh
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
